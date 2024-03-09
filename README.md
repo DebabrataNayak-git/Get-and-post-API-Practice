@@ -6,5 +6,5 @@ It consists of two main view controllers:
 one get the data from the URL.
 And Other One is for post data into the End Point.
 
-Tools & Technique: Xcode, Swift, UIKit, Cocoa Touch, AutoLayout, MVC, API call, URL Session
+Tools & Technique: Xcode, Swift, UIKit, Cocoa Touch, AutoLayout, MVC, API call, URL Session.
 
